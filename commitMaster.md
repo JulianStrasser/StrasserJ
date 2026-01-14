@@ -79,5 +79,3 @@ Temporary fix
 
 3. Bei wiederholenden Messages eigenen Branch erstellen
 
-
-
