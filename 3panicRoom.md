@@ -13,3 +13,4 @@ Temporary fix -> Es sollte genau beschrieben werden was gefixt wurde, auch wenn 
 
 # 3 - Repository aufräumen
 
+debug.log -> Kein sinnvoller Inhalt
