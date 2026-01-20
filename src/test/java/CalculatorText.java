@@ -16,6 +16,6 @@ class CalculatorTest {
 
     @Test
     void divide_works2() {
-        assertEquals(5, Calculator.divide(10, 2));
+        assertEquals(100, Calculator.divide(200, 2));
     }
 }
