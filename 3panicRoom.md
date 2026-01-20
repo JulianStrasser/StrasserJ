@@ -28,7 +28,7 @@ ID kopiert und git revert ID ausgeführt.
 - Clemens
 - Mark
 - Matthias
-- Julain
+- Julian
 
 ## Probleme und Lösungen im Panic Room
 ### Lösungsschritte - Problem 1
@@ -57,7 +57,7 @@ ID kopiert und git revert ID ausgeführt.
 - Gute Teamkommunikation
 - Nachdenken
 - Repo ordentlich halten
-- Dateien in absprache Löschen
+- Dateien in Absprache Löschen
 
 ## Problemlösung
 - Nachdenken
