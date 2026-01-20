@@ -19,7 +19,7 @@
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter</artifactId>
       <version>${junit.jupiter.version}</version>
-      <scope>test</scope>
+    
     </dependency>
   </dependencies>
 
@@ -31,6 +31,8 @@
         <version>3.2.5</version>
         <configuration>
           <useModulePath>false</useModulePath>
+          <maven.compiler.source>1.8</maven.compiler.source>
+          <maven.compiler.target>1.8</maven.compiler.target>
         </configuration>
       </plugin>
     </plugins>
